@@ -1,0 +1,8 @@
+# REQUIREMENTS
+- go needs to be installed
+
+# INSTRUCTIONS
+- to install go fast use `sudo apt install go` or `brew install go`
+ > for further info check the [official page](go.dev/doc/install)
+- to install the project dependecies use inside the directory `go mod tidy`
+- to run the project use `go run .`
